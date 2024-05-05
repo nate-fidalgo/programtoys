@@ -1,4 +1,4 @@
-A Directory to hold neat ways to run java programs and booting jvm's 
+A Directory to hold neat ways to run java programs and booting jvm's.<br> 
 Remember alot of these programs depend on you having the jni header files and libraries in your path when compiling.
 So you will need the JDK installed i used version 22 however nothing to different from standard 1.5 code from way back in day.
 So it will probably work with very old legacy JDK as well!
